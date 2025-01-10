@@ -166,5 +166,4 @@ class SafePasswordGenerator {
     if (strength >= 20) return 'Weak';
     return 'Very Weak';
   }
-
 }

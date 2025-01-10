@@ -1,6 +1,6 @@
 name: safe_password_generator
 description: "A secure Flutter package for generating strong with support for multiple character sets and complexity rules"
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/piperfresh/safe_password_generator
 issue_tracker: https://github.com/piperfresh/safe_password_generator/issues
 
