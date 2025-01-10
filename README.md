@@ -18,7 +18,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  safe_password_generator: ^0.0.2
+  safe_password_generator: ^1.0.0
 ```
 
 ## Usage

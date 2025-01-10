@@ -1,3 +1,8 @@
-## 0.0.2
+## 1.0.0
+* Updated the package to version 1.0.0.
+* Code cleanup and optimization.
 
-* TODO: Describe initial release.
+
+## 0.0.1
+* Initial release of the package.
+
